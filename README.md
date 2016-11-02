@@ -1,8 +1,8 @@
 ## Breakout-2.0
 
-111503062
-Sameer Kolpekwar
-Mini Project for DSA 2016 using SDL2 and C Libraries 
+111503062  
+Sameer Kolpekwar  
+Mini Project for DSA 2016 using SDL2 and C Libraries   
 
 
 The Project is a simple graphical physics based game. The player uses 4 paddles to move the ball and hit as many bricks as possible and try to eliminate them. It is inspired by the 1976 Atari Breakout and tries to improve on it. 
